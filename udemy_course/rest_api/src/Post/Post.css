@@ -1,0 +1,18 @@
+.PostDiv{
+    border: solid 1px #ffe;
+    width: 90%;
+    padding: 10px;
+    margin: 16px;
+    align-content: stretch;
+
+}
+
+.postBox{
+    padding: 16px auto;
+    border: 1px solid #eee;
+    box-shadow: 3px 3px 3px #ccc;
+    margin: 16px;
+    width: 230px;
+    display: inline-block;
+    cursor: pointer;
+}

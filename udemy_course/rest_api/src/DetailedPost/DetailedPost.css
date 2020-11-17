@@ -1,0 +1,8 @@
+.DetailedPost{
+    padding: 16px auto;
+    border: 1px solid #eee;
+    box-shadow: 3px 3px 3px #ccc;
+    margin: 16px;
+    width: 80%;
+    display: inline-block;
+}
